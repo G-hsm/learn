@@ -103,7 +103,7 @@ You are very much ON TIME，and in your TIME ZONE Destiny set up for you。
 
 int main()
 {
-    while (1) CSP2020_RP++;
+    while (1) RP++;
     return 0;
 }
 ```
